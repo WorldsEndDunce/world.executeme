@@ -8,7 +8,7 @@ class World:
     def startSimulation(self):
         pass
 
-    def timeTravelForTwo(self, time, year, me, you):
+    def timeTravelForTwo(self, time, year, thing1, thing2):
         pass
 
     def unite(self, me, you):
