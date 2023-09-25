@@ -20,8 +20,14 @@ class Thing:
 
     def getDimensions(self):
         pass
+        
+    def resetDimensions(self):
+        pass
 
     def getCircumference(self):
+        pass
+
+    def resetCircumference(self):
         pass
 
     def getTangent(self, x):
