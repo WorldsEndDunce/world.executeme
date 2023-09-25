@@ -98,3 +98,37 @@ class Thing:
 
     def escape(self, topic):
         pass
+        
+class Lovable(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class Circle(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class SineWave(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class Sequence(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class Eggplant(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class Tomato(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
+
+
+class TabbyCat(Thing):
+    def __init__(self, name, value1, value2, value3, value4):
+        super().__init__(name, value1, value2, value3, value4)
